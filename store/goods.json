@@ -3,8 +3,8 @@
     "name" : "Cup",
     "cost" : 15.99,
     "description" : "Ceramic cup with rim",
-    "image" : "/Images/cup1.png",
-    "full" : "/Images/cup1_full.jpg"
+    "image" : "ceramics/Images/cup1.png",
+    "full" : "ceramics/Images/cup1_full.jpg"
   },
   "12346" : {
     "name" : "Plate",
@@ -45,8 +45,8 @@
     "name" : "Cup",
     "cost" : 15.99,
     "description" : "Ceramic cup with mustard edge",
-    "image" : "Images/cup2.png",
-    "full" : "Images/cup2_full.jpg"
+    "image" : "/Images/cup2.png",
+    "full" : "/Images/cup2_full.jpg"
   },
   "12352" : {
     "name" : "Cup",
