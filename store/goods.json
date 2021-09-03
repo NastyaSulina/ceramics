@@ -45,8 +45,8 @@
     "name" : "Cup",
     "cost" : 15.99,
     "description" : "Ceramic cup with mustard edge",
-    "image" : "/Images/cup2.png",
-    "full" : "/Images/cup2_full.jpg"
+    "image" : "Images/cup2.png",
+    "full" : "Images/cup2_full.jpg"
   },
   "12352" : {
     "name" : "Cup",
