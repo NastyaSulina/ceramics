@@ -558,7 +558,7 @@ body {
         margin: 10px 10px 60px 10px;
     }
 }
-@media (max-width: 750px) {
+@media (min-width: 661px) and (max-width: 750px) {
     .info-goods {
         width: 100%;
         font-size: 12px;
