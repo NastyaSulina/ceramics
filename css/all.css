@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
 /*ОБЩЕЕ*/
 body {
     width: 100%;
@@ -596,17 +598,3 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     color: #151515;}
-
-@font-face {
-    font-family: "Poiret One";
-    src: url("/font/PoiretOne-Regular.ttf") format("truetype");
-    font-style: normal;
-    font-weight: normal;
-}
-
-@font-face{
-    font-family: "Open Sans";
-    src: url("/font/OpenSans-Regular.ttf") format("truetype");
-    font-style: normal;
-    font-weight: normal;
-}
