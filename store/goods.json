@@ -3,21 +3,21 @@
     "name" : "Cup",
     "cost" : 15.99,
     "description" : "Ceramic cup with rim",
-    "image" : "ceramics/Images/cup1.png",
-    "full" : "ceramics/Images/cup1_full.jpg"
+    "image" : "Images/cup1.png",
+    "full" : "Images/cup1_full.jpg"
   },
   "12346" : {
     "name" : "Plate",
     "cost" : 17.99,
     "description" : "Glazed Terracotta plate",
-    "image" : "/Images/plate1.jpg",
-    "full" : "/Images/plate1_full.jpg"
+    "image" : "ceramics/Images/plate1.jpg",
+    "full" : "ceramics/Images/plate1_full.jpg"
   },
   "12347" : {
     "name" : "Plate",
     "cost" : 17.99,
     "description" : "Ceramic bowl with a glazed textured surface",
-    "image" : "/Images/plate2.png",
+    "image" : "ceramics/store/Images/plate2.png",
     "full" : "/Images/plate2_full.jpg"
   },
   "12348" : {
