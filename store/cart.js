@@ -94,7 +94,7 @@ function saveCartToLS() {
 function showMiniCart() {
     // показываю содержимое корзины
     var out = '';
-    out+='<a href="cart.html">Cart </a>';
+    out+='<a href="cart-page.html">Cart </a>';
     var summed = 0;
     for (var key in cart) {
         summed += cart[key];
