@@ -10,63 +10,63 @@
     "name" : "Plate",
     "cost" : 17.99,
     "description" : "Glazed Terracotta plate",
-    "image" : "ceramics/Images/plate1.jpg",
-    "full" : "ceramics/Images/plate1_full.jpg"
+    "image" : "Images/plate1.jpg",
+    "full" : "Images/plate1_full.jpg"
   },
   "12347" : {
     "name" : "Plate",
     "cost" : 17.99,
     "description" : "Ceramic bowl with a glazed textured surface",
-    "image" : "ceramics/store/Images/plate2.png",
-    "full" : "/Images/plate2_full.jpg"
+    "image" : "Images/plate2.png",
+    "full" : "Images/plate2_full.jpg"
   },
   "12348" : {
     "name" : "Plate",
     "cost" : 17.99,
     "description" : "Glazed Terracotta plate",
-    "image" : "/Images/plate3.png",
-    "full" : "/Images/plate3_full.jpg"
+    "image" : "Images/plate3.png",
+    "full" : "Images/plate3_full.jpg"
   },
   "12349" : {
     "name" : "Plate",
     "cost" : 17.99,
     "description" : "Glazed Terracotta plate",
-    "image" : "/Images/plate4.png",
-    "full" : "/Images/plate4_full.jpg"
+    "image" : "Images/plate4.png",
+    "full" : "Images/plate4_full.jpg"
   },
   "12354" : {
     "name" : "Cup",
     "cost" : 15.99,
     "description" : "Ceramic cup with mustard edge",
-    "image" : "/Images/cup5.png",
-    "full" : "/Images/cup5_full.jpg"
+    "image" : "Images/cup5.png",
+    "full" : "Images/cup5_full.jpg"
   },
   "12351" : {
     "name" : "Cup",
     "cost" : 15.99,
     "description" : "Ceramic cup with mustard edge",
-    "image" : "/Images/cup2.png",
-    "full" : "/Images/cup2_full.jpg"
+    "image" : "Images/cup2.png",
+    "full" : "Images/cup2_full.jpg"
   },
   "12352" : {
     "name" : "Cup",
     "cost" : 15.99,
     "description" : "Ceramic cup with mustard edge",
-    "image" : "/Images/cup3.png",
-    "full" : "/Images/cup3_full.jpg"
+    "image" : "Images/cup3.png",
+    "full" : "Images/cup3_full.jpg"
   },
   "12353" : {
     "name" : "Cup",
     "cost" : 15.99,
     "description" : "Ceramic cup with mustard edge",
-    "image" : "/Images/cup4.png",
-    "full" : "/Images/cup4_full.jpg"
+    "image" : "Images/cup4.png",
+    "full" : "Images/cup4_full.jpg"
   },
   "12350" : {
     "name" : "Plate",
     "cost" : 19.99,
     "description" : "Ceramic bowl with rim",
-    "image" : "/Images/plate5.png",
-    "full" : "/Images/plate5_full.jpg"
+    "image" : "Images/plate5.png",
+    "full" : "Images/plate5_full.jpg"
   }
 }
