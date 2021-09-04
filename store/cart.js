@@ -66,7 +66,7 @@ $.getJSON('goods.json', function (data) {
     function showInfo() {
         if ($.isEmptyObject(cart)) {
             var out = '';
-            out += '<button class="main-button">Shop now!</button>';
+            out += '<button class="main-button"><a href="shop-page.html">Shop now!</a></button>';
             $('#info-final').html(out);
         }
         else {

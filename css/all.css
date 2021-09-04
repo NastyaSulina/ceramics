@@ -84,7 +84,7 @@ body {
     color: #bfbfbf;
     font-family: 'Open Sans', sans-serif;}
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     .column1 {width: 100%;
         grid-area: 1 / 1 / 2 / 4;
         padding: 0;
@@ -289,10 +289,8 @@ body {
 }
 .plate6 img {width: 100%;}
 .text-home1 {
-    position: absolute;
-    top: 125%;
     padding: 5%;
-    margin: 0 20%;
+    margin: 60% 20% 10% 20%;
     background: white;
     width: 50%;
 }
@@ -301,11 +299,10 @@ body {
 .t2 {font-family: "Open Sans", sans-serif;
     font-size: 13px;}
 .text-home2 {
-    position: absolute;
-    top: 175%;
+    margin: 0 20% 7% 20%;
     background: white;
     left: 20%;
-    width: 30%;
+    width: 40%;
     padding: 5%;
 }
 
@@ -320,10 +317,15 @@ body {
 /*CONTACTS*/
 /*CONTACT FORM*/
 
+.content-cart {
+    width: 66.66%;
+    margin: 0 16.67%;
+    min-height: calc(100vh - 358px);}
+
 .content {
     width: 66.66%;
     margin: 0 16.67%;
-    min-height: 312px;}
+    min-height: 350px;}
 
 .heading3 {
     font-size: 40px;
@@ -438,7 +440,7 @@ body {
     color: #151515;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     .info-contacts2 {
         margin: 15% 16.67%;
     }
@@ -449,6 +451,9 @@ body {
         width: 100%;
         float: none;
         padding-bottom: 5%;
+    }
+    .content-cart {
+        min-height: calc(100vh - 552px);
     }
 }
 /* LARGE SCREENS */
@@ -544,7 +549,7 @@ body {
 
 .content-home {
     background-image: url("Images/fond2.jpg");
-    background-size: cover;
+    background-size: contain;
 }
 
 .b-popup {
@@ -596,6 +601,10 @@ body {
     .goods-in-cart {
         width: 96%;
         margin: 10px 10px 60px 10px;
+    }
+    .info-goods img {
+        width: 100%;
+        float: none;
     }
 }
 @media (min-width: 661px) and (max-width: 750px) {
