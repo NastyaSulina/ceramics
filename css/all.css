@@ -254,11 +254,10 @@ body {
 .cup2 img {width: 100%;}
 .back {
     position: absolute;
-    width: 67.5%;
+    width: 60%;
     display: flex;
     top: 45%;
-    right: -8%;
-    transform: rotate(190deg);
+    right: 0;
 }
 .back img {width: 100%;}
 .plate4 {
@@ -274,8 +273,7 @@ body {
     width: 36%;
     display: flex;
     top: 65%;
-    right: -5%;
-    transform: rotate(20deg);
+    right: 0;
 }
 .plate4 img {width: 100%;}
 .plate5 img {width: 100%;}
@@ -308,12 +306,14 @@ body {
 
 .plate7 {
     position: absolute;
-    width: 41.5%;
+    width: 35%;
     display: flex;
-    top: 155%;
-    right: -10%;
+    top: 165%;
+    right: 0;
 }
 .plate7 img {width: 100%;}
+
+
 /*CONTACTS*/
 /*CONTACT FORM*/
 
@@ -550,13 +550,14 @@ body {
 .content-home {
     background-image: url("Images/fond2.jpg");
     background-size: contain;
+    min-height: calc(100vh - 358px);
 }
 
 .b-popup {
     font-family: 'Open Sans', sans-serif;
     width: 66.66%;
     display: none;
-    margin: 0 16.67%;
+    margin: 10% 16.67%;
     padding: 30px;
     min-height:40%;
     z-index: 1000;
@@ -565,7 +566,7 @@ body {
     overflow:hidden;
     position:fixed;
     box-sizing: border-box;
-    top:100px;
+    top:0;
 }
 
 .info-goods {
