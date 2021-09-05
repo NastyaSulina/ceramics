@@ -306,9 +306,9 @@ body {
 
 .plate7 {
     position: absolute;
-    width: 35%;
+    width: 25%;
     display: flex;
-    top: 165%;
+    top: 160%;
     right: 0;
 }
 .plate7 img {width: 100%;}

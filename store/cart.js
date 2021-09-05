@@ -24,7 +24,7 @@ $.getJSON('goods.json', function (data) {
                 out += '<button class="minus" data-art="' + key + '">&#8722</button>';
                 out += '<p class="number">'+cart[key]+'</p>';
                 out += '<button class="plus" data-art="' + key + '">&#43</button>';
-                out += '<p>$ '+cart[key] * goods[key].cost+'</p>';
+                out += '<p>$ '+Number((cart[key] * goods[key].cost).toFixed(2))+'</p>';
                 out += '<br>';
                 out += '</div>';
             }
@@ -75,7 +75,8 @@ $.getJSON('goods.json', function (data) {
             for (var key in cart) {
                 summed += cart[key] * goods[key].cost;
             }
-            out += '<p>Total: '+ summed +'</p>';
+            summedd = Number((summed).toFixed(2));
+            out += '<p>Total: '+ summedd +'</p>';
             out += '<button class="main-button">Checkout</button>';
             $('#info-final').html(out);
         }
